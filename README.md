@@ -1,6 +1,5 @@
 # Covid19-Sonification-SuperCollider
-Sonification in SuperCollider using Covid19 Data
-25 Apr.20
+Sonification in SuperCollider using Covid19 Data  25 Apr.20
 
 I used data from: https://github.com/CSSEGISandData/COVID-19
 
